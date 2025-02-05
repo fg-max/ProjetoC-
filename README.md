@@ -1,5 +1,5 @@
 1. DSS_SerieDeFibonacci
-Esta é a primeira aplicação em C# que calcula a sequência de Fibonacci.
+Esta aplicação em C# realizad um calculo a sequência de Fibonacci.
 O código demonstra a lógica básica para gerar a sequência, utilizando um loop for ou  while.
 É um exemplo simples e didático.
 2. DSS_ATV_LacoDeRepeticao
